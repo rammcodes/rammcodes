@@ -36,4 +36,13 @@ Feel free to visit my website **[rammaheshwari.com](https://rammaheshwari.com)**
 I'm **open** to full-time opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my **[Website](https://rammaheshwari.com)**.
 
 
+---
+
+### Connect with me:
+
+🌎 **[Website](https://rammaheshwari.com/)**
+
+👨‍💼 **[Linkedin](https://linkedin.com/in/rammcodes)**
+
+🐦 **[Twitter](https://twitter.com/rammcodes)**
 
