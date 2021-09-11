@@ -33,7 +33,7 @@ I also like **sharing content** related to the stuff that I have learned over th
 
 Feel free to visit my website **[rammaheshwari.com](https://rammaheshwari.com)** to explore some of my recent **projects** and find more about me.
 
-I'm **open** to full-time opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me.
+I'm **open** to full-time opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my **[Website](https://rammaheshwari.com)**.
 
 
 
