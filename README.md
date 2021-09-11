@@ -40,9 +40,10 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 
 ### Connect with me:
 
-🌎 **[Website](https://rammaheshwari.com/)**
 
 👨‍💼 **[Linkedin](https://linkedin.com/in/rammcodes)**
 
 🐦 **[Twitter](https://twitter.com/rammcodes)**
+
+🌎 **[Website](https://rammaheshwari.com/)**
 
