@@ -11,6 +11,8 @@ I'm a **Frontend Web Developer** building the **Front-end** of **Websites** and 
 
 I also like **sharing content** related to the stuff that I have learned over the years in **Web Development** so it can help other people of the **Dev Community**.
 
+Follow me on **[Linkedin](https://linkedin.com/in/rammcodes)** for Awesome content related to **Web Development** and **Programming**
+
 ---
 
 ## **Languages and Tools I Know**:
