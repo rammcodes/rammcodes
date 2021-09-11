@@ -11,6 +11,7 @@ I'm a 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽
 
 I also like 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 related to the stuff that I have learned over the years in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 so it can help other people of the 𝗗𝗲𝘃 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆.
 
+---
 
 ## **Languages and Tools I Know**:
 
@@ -28,6 +29,7 @@ I also like 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 related to
 <br />
 <br />
 
+---
 
 Feel free to visit my website 𝗿𝗮𝗺𝗺𝗮𝗵𝗲𝘀𝗵𝘄𝗮𝗿𝗶.𝗰𝗼𝗺 to explore some of my recent 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 and find more about me.
 
