@@ -49,3 +49,8 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 
 🌎 **[Website](https://rammaheshwari.com/)**
 
+---
+
+## **Stats** ⚡
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rammcodes)](https://github.com/anuraghazra/github-readme-stats)
