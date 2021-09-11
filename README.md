@@ -5,11 +5,11 @@
 [![Website](https://img.shields.io/website?label=rammaheshwari.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rammaheshwari.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rammcodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frammcodes&screen_name=rammcodes)
 
-## Frontend Developer 👨‍💻 - Content Creator 🚀 - Side Indie Maker 🥑!!
+## Frontend Developer 👨‍💻 - Content Creator 🚀 - Side Indie Maker 🥑
 
-I'm a 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 building the 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 of 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 and 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 that leads to the success of the overall product. While building any product, I always make sure that whatever I'm building, it's going to 𝘀𝗼𝗹𝘃𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 and it's going to 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝘃𝗮𝗹𝘂𝗲 no matter how small or large the product is.
+I'm a **Frontend Web Developer** building the **Front-end** of **Websites** and **Web Applications** that leads to the success of the overall product. While building any product, I always make sure that whatever I'm building, it's going to **solve problems** and it's going to **provide value** no matter how small or large the product is.
 
-I also like 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 related to the stuff that I have learned over the years in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 so it can help other people of the 𝗗𝗲𝘃 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆.
+I also like **sharing content** related to the stuff that I have learned over the years in **Web Development** so it can help other people of the **Dev Community**.
 
 ---
 
@@ -31,9 +31,9 @@ I also like 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 related to
 
 ---
 
-Feel free to visit my website 𝗿𝗮𝗺𝗺𝗮𝗵𝗲𝘀𝗵𝘄𝗮𝗿𝗶.𝗰𝗼𝗺 to explore some of my recent 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 and find more about me.
+Feel free to visit my website **[rammaheshwari.com](https://rammaheshwari.com)** to explore some of my recent **projects** and find more about me.
 
-I'm 𝗼𝗽𝗲𝗻 to full-time opportunities where I can 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲, 𝗹𝗲𝗮𝗿𝗻 and 𝗴𝗿𝗼𝘄. If you have a good opportunity that matches my skills and experience then feel free to 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 me.
+I'm **open** to full-time opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me.
 
 
 
