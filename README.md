@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQELzyFEyK9W8A/profile-displaybackgroundimage-shrink_350_1400/0/1631182670615?e=1636588800&v=beta&t=Vg4CGg7fzybyR_dScRlbSPJqwC7LHJltc2vfYmtoA_U" alt="Banner of Ram Maheshwari | rammcodes">
+<!-- <img src="https://media-exp1.licdn.com/dms/image/C4E16AQELzyFEyK9W8A/profile-displaybackgroundimage-shrink_350_1400/0/1631182670615?e=1636588800&v=beta&t=Vg4CGg7fzybyR_dScRlbSPJqwC7LHJltc2vfYmtoA_U" alt="Banner of Ram Maheshwari | rammcodes"> -->
 
 ## Hi there, I'm Ram 👋
 
